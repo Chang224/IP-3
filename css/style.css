@@ -6,9 +6,6 @@
     text-align: center;
     color: white;
 }
-img {
-    float: middle;
-}
 h1 {
     text-align: center
 }
@@ -17,6 +14,14 @@ h1 {
 }
 h2 {
     text-align: center;
+}
+.box2 {
+    background-image: url(../mid-background.jpg);
+    background-repeat: no-repeat;
+    width: fill;
+    height: 700px;
+    text-align: center;
+    color: white;
 }
 h3 { 
     text-align: center;
