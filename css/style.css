@@ -29,6 +29,14 @@ h3 {
 h6 {
     text-align: center;
 }
+.box3 {
+    background-image: url(../dark-background.jpg);
+    background-repeat: no-repeat;
+    width: fill;
+    height: 700px;
+    text-align: center;
+    color: white;
+}
 p { 
     text-align: center;
 }
