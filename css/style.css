@@ -67,7 +67,7 @@ h6 {
     width: fill;
     height: 700px;
     text-align: center;
-    color: white;
+    color:white;
     font-family: 'Lucida Sans', 
     'Lucida Sans Regular', 'Lucida Grande', 
     'Lucida Sans Unicode', Geneva, Verdana, 
@@ -85,10 +85,19 @@ p {
 input[type="text"]
 {
     background: transparent;
-    background: transparent;
-    border:white;
+    border-color: white;
+    border-radius: 4px; 
+}
+::placeholder
+  {
+    color: white;
+    font-family: 'Lucida Sans', 
+    'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, 
+    sans-serif;
 }
 textarea {
     background: transparent;
-    border: white;
+    border-color: white;
+    border-radius: 4px;
 }
