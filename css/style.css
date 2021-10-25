@@ -82,3 +82,13 @@ p {
     'Lucida Sans Unicode', Geneva, Verdana, 
     sans-serif;
 }
+input[type="text"]
+{
+    background: transparent;
+    background: transparent;
+    border:white;
+}
+textarea {
+    background: transparent;
+    border: white;
+}
