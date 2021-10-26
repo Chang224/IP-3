@@ -67,6 +67,7 @@ h6 {
     width: fill;
     height: 700px;
     text-align: center;
+    color: white;
     color:white;
     font-family: 'Lucida Sans', 
     'Lucida Sans Regular', 'Lucida Grande', 
@@ -100,4 +101,10 @@ textarea {
     background: transparent;
     border-color: white;
     border-radius: 4px;
+}
+.box5 {
+    text-align:center;
+}
+.box4 {
+    text-align: center;
 }
