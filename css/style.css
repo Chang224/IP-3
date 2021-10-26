@@ -112,3 +112,19 @@ textarea {
 .box4 {
     text-align: center;
 }
+.container {
+    text-align: center;
+}
+.container p {
+    display: none;
+}
+.container h4 {
+    display: none;
+}
+.con2 p {
+    display: none;
+    text-align: center;
+}
+.con2 h4 {
+    display: none;
+}
