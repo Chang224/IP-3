@@ -5,6 +5,6 @@ $(document).ready(function() {
     });
 });
 $(document).on("keypress", "input", function(e) {
-    $()
+    $()  
     alert("Your input has been recieved")
 });
