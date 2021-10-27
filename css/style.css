@@ -137,7 +137,7 @@ textarea {
     width: 300px;
 }
 .image__img {
-    display: block;
+    display: block;  
     width: 100%;
 }
 .image__overlay {

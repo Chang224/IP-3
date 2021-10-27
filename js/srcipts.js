@@ -63,15 +63,6 @@ $(document).ready(function() {
     });
 });
 
-
-
-
-
-
-
-
-
-
 $(document).ready(function() {
     $(":button").click(function() {
     alert("Thank you, we have recieved your input")
