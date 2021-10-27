@@ -108,9 +108,6 @@ textarea {
 .box4 {
     text-align: center;
 }
-.container {
-    float: left;
-}
 .container p {
     display: none;
 }
@@ -119,11 +116,43 @@ textarea {
 }
 .con2 p {
     display: none;
-    text-align: center;
 }
 .con2 h4 {
     display: none;
 }
+.con3 p {
+    display: none;
+}
 .box11 {
+    margin-right: 250;
     text-align: center;
+}
+.box12 {
+    text-align: center;
+}
+.box13 {
+    margin-left: 250;
+    text-align: center;
+}
+.hover:hover .image {
+    opacity: 0.3;
+}
+.hover:hover .middle {
+    opacity: 1;
+}
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+.text {
+    background-color: grey;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
 }
