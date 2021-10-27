@@ -43,10 +43,6 @@ h2 {
     'Lucida Sans Unicode', Geneva, Verdana, 
     sans-serif;
 }
-.box11 {
-    text-align: center;
-}
-
 h3 { 
     text-align: center;
 }
@@ -109,11 +105,11 @@ textarea {
 .box5 {
     text-align:center;
 }
-.cols {
+.box4 {
     text-align: center;
 }
 .container {
-    text-align: center;
+    float: left;
 }
 .container p {
     display: none;
@@ -127,4 +123,7 @@ textarea {
 }
 .con2 h4 {
     display: none;
+}
+.box11 {
+    text-align: center;
 }
