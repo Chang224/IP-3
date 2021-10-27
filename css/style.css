@@ -1,5 +1,5 @@
 .box {
-    background-image: url(../first-background.jpg);
+    background-image: url(../img/first-background.jpg);
     background-repeat: no-repeat;
     width: fill;
     height: 700px;
@@ -32,7 +32,7 @@ h2 {
     sans-serif;
 }
 .box2 {
-    background-image: url(../mid-background.jpg);
+    background-image: url(../img/mid-background.jpg);
     background-repeat: no-repeat;
     width: fill;
     height: 700px;
@@ -62,7 +62,7 @@ h6 {
     sans-serif;
 }
 .box3 {
-    background-image: url(../dark-background.jpg);
+    background-image: url(../img/dark-background.jpg);
     background-repeat: no-repeat;
     width: fill;
     height: 700px;
