@@ -4,7 +4,8 @@ $(document).ready(function() {
     $("p").show();
     });
 });
-$(document).on("keypress", "input", function(e) {
-    $()  
-    alert("Your input has been recieved")
+$(document).ready(function() {
+    $(":button").click(function() {
+    alert("Thank you, we have recieved your input")
+    });
 });
